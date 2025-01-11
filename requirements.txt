@@ -1,0 +1,2 @@
+ruff>=0.0.278
+commitizen>=3.30.0
