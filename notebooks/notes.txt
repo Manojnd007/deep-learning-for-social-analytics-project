@@ -1,0 +1,18 @@
+professor feedback.
+
+Graph nn.
+node has popularity, and other columns.
+predict link between the nodes.
+creating negative sampling :
+If they don't colloberate
+predict the probability of colloberation.
+-------------------------------
+
+Find how co-related these features are.
+GNN.
+
+remove 17k.
+a.artist_Wtihout_cpounty_wise.
+ spotify id, name, followers, popularity and 15 generses.
+b. edges.csv 
+4 columns (spotify id and names.)
