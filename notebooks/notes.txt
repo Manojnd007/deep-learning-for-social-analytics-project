@@ -11,8 +11,9 @@ predict the probability of colloberation.
 Find how co-related these features are.
 GNN.
 
-remove 17k.
-a.artist_Wtihout_cpounty_wise.
+remove 17k data as it'S not required.
+
+a.artist_Wtihout_county_wise.
  spotify id, name, followers, popularity and 15 generses.
 b. edges.csv 
 4 columns (spotify id and names.)
