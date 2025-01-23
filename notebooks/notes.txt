@@ -17,3 +17,5 @@ a.artist_Wtihout_county_wise.
  spotify id, name, followers, popularity and 15 generses.
 b. edges.csv 
 4 columns (spotify id and names.)
+
+--> Changes done, lets do the ML part.
