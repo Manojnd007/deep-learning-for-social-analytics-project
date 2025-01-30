@@ -1,0 +1,51 @@
+{
+    "nodes_stats": {
+        "total_nodes": 120353,
+        "avg_followers": -0.038384167662650646,
+        "avg_popularity": -0.1786016427417587,
+        "genre_distribution": {
+            "alternative": 0,
+            "Indie": 0,
+            "classical_orchestral": 649,
+            "electronic": 3931,
+            "folk": 0,
+            "world": 0,
+            "jazz": 503,
+            "hip_hop": 8264,
+            "latin": 568,
+            "metal": 216,
+            "pop": 10444,
+            "randb_Soul": 2438,
+            "reggae_dancehall": 600,
+            "rock": 2175,
+            "soundtrack": 197
+        },
+        "missing_data": {
+            "spotify_id": 0,
+            "name": 0,
+            "followers": 0,
+            "popularity": 0,
+            "classical_orchestral": 0,
+            "electronic": 0,
+            "jazz": 0,
+            "hip_hop": 0,
+            "latin": 0,
+            "metal": 0,
+            "pop": 0,
+            "randb_Soul": 0,
+            "reggae_dancehall": 0,
+            "rock": 0,
+            "soundtrack": 0,
+            "unknown": 0,
+            "alternative": 0,
+            "Indie": 0,
+            "folk": 0,
+            "world": 0
+        }
+    },
+    "edges_stats": {
+        "total_edges": 266046,
+        "unique_artists": 135061,
+        "avg_collaborations_per_artist": 2.2105473066728707
+    }
+}

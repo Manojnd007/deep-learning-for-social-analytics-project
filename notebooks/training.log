@@ -1,0 +1,32 @@
+2025-01-29 17:32:23,832 - WARNING - Null values found:
+followers           1
+Unnamed: 18    143832
+dtype: int64
+2025-01-29 17:33:21,094 - INFO - Best hyperparameters: {'in_channels': 17, 'hidden_channels': 128, 'heads': 4}
+2025-01-29 17:34:00,909 - INFO - Epoch: 010, Loss: 0.5745, Val Loss: 0.5586, Val ROC-AUC: 0.8711
+2025-01-29 17:34:41,435 - INFO - Epoch: 020, Loss: 0.5624, Val Loss: 0.5557, Val ROC-AUC: 0.8601
+2025-01-29 17:35:22,453 - INFO - Epoch: 030, Loss: 0.5573, Val Loss: 0.5460, Val ROC-AUC: 0.8533
+2025-01-29 17:36:01,119 - INFO - Epoch: 040, Loss: 0.5552, Val Loss: 0.5499, Val ROC-AUC: 0.8496
+2025-01-29 17:36:39,694 - INFO - Epoch: 050, Loss: 0.5498, Val Loss: 0.5503, Val ROC-AUC: 0.8500
+2025-01-29 17:37:18,439 - INFO - Epoch: 060, Loss: 0.5486, Val Loss: 0.5471, Val ROC-AUC: 0.8520
+2025-01-29 17:37:58,755 - INFO - Epoch: 070, Loss: 0.5487, Val Loss: 0.5511, Val ROC-AUC: 0.8494
+2025-01-29 17:38:37,767 - INFO - Epoch: 080, Loss: 0.5507, Val Loss: 0.5491, Val ROC-AUC: 0.8523
+2025-01-29 17:39:18,787 - INFO - Epoch: 090, Loss: 0.5506, Val Loss: 0.5490, Val ROC-AUC: 0.8515
+2025-01-29 17:39:58,438 - INFO - Epoch: 100, Loss: 0.5501, Val Loss: 0.5486, Val ROC-AUC: 0.8517
+2025-01-29 17:40:38,545 - INFO - Epoch: 110, Loss: 0.5478, Val Loss: 0.5488, Val ROC-AUC: 0.8493
+2025-01-29 17:41:18,378 - INFO - Epoch: 120, Loss: 0.5487, Val Loss: 0.5497, Val ROC-AUC: 0.8483
+2025-01-29 17:41:59,101 - INFO - Epoch: 130, Loss: 0.5458, Val Loss: 0.5480, Val ROC-AUC: 0.8503
+2025-01-29 17:42:39,510 - INFO - Epoch: 140, Loss: 0.5506, Val Loss: 0.5467, Val ROC-AUC: 0.8519
+2025-01-29 17:43:17,995 - INFO - Epoch: 150, Loss: 0.5473, Val Loss: 0.5474, Val ROC-AUC: 0.8498
+2025-01-29 17:43:57,750 - INFO - Epoch: 160, Loss: 0.5484, Val Loss: 0.5491, Val ROC-AUC: 0.8509
+2025-01-29 17:44:38,654 - INFO - Epoch: 170, Loss: 0.5515, Val Loss: 0.5499, Val ROC-AUC: 0.8505
+2025-01-29 17:45:18,369 - INFO - Epoch: 180, Loss: 0.5474, Val Loss: 0.5511, Val ROC-AUC: 0.8521
+2025-01-29 17:45:56,845 - INFO - Epoch: 190, Loss: 0.5464, Val Loss: 0.5489, Val ROC-AUC: 0.8505
+2025-01-29 17:46:35,994 - INFO - Epoch: 200, Loss: 0.5514, Val Loss: 0.5501, Val ROC-AUC: 0.8515
+2025-01-29 17:46:37,429 - INFO - Final test metrics: {'roc_auc': 0.8770253942550819, 'average_precision': 0.8707082164189247, 'confusion_matrix': array([[ 9855,  6915],
+       [ 1010, 15760]])}
+2025-01-29 17:49:20,525 - INFO - Genre-specific performance: {'classical_orchestral': {'roc_auc': 0.3541666666666667, 'f1': 0.7096774193548387}, 'electronic': {'roc_auc': 0.9928526885812673, 'f1': 0.8361683079677709}, 'jazz': {'roc_auc': 1.0, 'f1': 0.8888888888888888}, 'hip_hop': {'roc_auc': 0.9518606207363994, 'f1': 0.8288032454361055}, 'latin': {'roc_auc': 0.8081729815512795, 'f1': 0.8114285714285714}, 'metal': {'roc_auc': 1.0, 'f1': 0.6666666666666666}, 'pop': {'roc_auc': 0.9566270710728836, 'f1': 0.8206920657112897}, 'randb_Soul': {'roc_auc': 0.9968673506188566, 'f1': 0.8434579439252337}, 'reggae_dancehall': {'roc_auc': 0.9248979591836735, 'f1': 0.8433734939759037}, 'rock': {'roc_auc': 0.9068047337278107, 'f1': 0.8253968253968254}, 'soundtrack': {'roc_auc': 0.515625, 'f1': 0.8}}
+2025-01-29 17:54:51,649 - WARNING - Null values found:
+followers           1
+Unnamed: 18    143832
+dtype: int64
